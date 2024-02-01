@@ -1,6 +1,4 @@
 # SirensOfNC.net
-## My personal website
-# _________________
 So ummm I had an idea one day for a personal website without any JS knowledge but a pretty moderate HTML + CSS experience
 (I still need to learn JS lmao)
 So thats basically what I did and I think it turned out great
