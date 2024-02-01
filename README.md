@@ -1,4 +1,6 @@
 # SirensOfNC.net
+![Screenshot 2024-02-01 4 04 25 PM](https://github.com/SirensOfNorthCarolina/SirensOfNC/assets/108837224/a52b12e1-e1ae-4cd5-b12b-0e753058568d)
+
 So ummm I had an idea one day for a personal website without any JS knowledge but a pretty moderate HTML + CSS experience
 (I still need to learn JS lmao)
 So thats basically what I did and I think it turned out great
