@@ -9,3 +9,10 @@ function GoToRepo() {
   window.open("https://github.com/SirensOfNorthCarolina/SirensOfNC");
   
 }
+
+function imageEasterEgg() {
+  const delay = ms => new Promise(res => setTimeout(res, ms));
+  let singing = new Audio('assets/singingeasteregg.mp3');
+  singing.play();
+  document.getElementById("eastereggmessage").style.display = "block";
+}
