@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width">
     <script src="https://kit.fontawesome.com/9727e41e24.js" crossorigin="anonymous"></script>
-    
+    <script src="sitefunctions.js"></script>
     <link rel="stylesheet" href="style.css">
     <div class="socials">
         <center><span><a href="https://discord.gg/z5xCCv8cZD"><i class="fa-brands fa-discord fa-2xl"></i></a><a href="https://www.youtube.com/channel/UCPf5ujFUTShk0A8xrTv5Pww"><i class="fa-brands fa-youtube fa-2xl"></i></a><a href="https://twitter.com/sirensofnc"><i class="fa-brands fa-twitter fa-2xl"></i></a></span></center>
@@ -24,8 +24,13 @@
         <img src="assets/filbert.png" alt="Logo" height="300px">
         <br><br>
         <p>A music bot for discord. <br> Built off of code I found on GitHub but implemented it into my own project, <br> and made it run 24/7. I was proud of it so I released it!</p>
+      <br>
+      <a href="credits.html">People I need to thank</a>
         <br><br>
-        <a href="https://discord.com/oauth2/authorize?client_id=1185738554417094737&permissions=8&scope=bot"><button>ADD TO DISCORD <i class="fa-brands fa-discord"></i></button></a>
+        <span style="margin-left: 50px; margin-right: 50px;"><button onclick="AddToDiscord()">ADD TO DISCORD <i class="fa-brands fa-discord"></i></button> <button onclick="GoToRepo()">REPOSITORY <i class="fa-brands fa-github"></i></button></span>
+      <br>
+      <br>
+      <p id="message" style="display: none;">Check the new opened tab. (if you are confused on why this won't go away you probably opened a link on this page, refresh if it annoys you.)</p>
     </div></center>
     <br><br>
     <center><div class="footer">
