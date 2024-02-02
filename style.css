@@ -52,14 +52,13 @@ img{
 }
 
 .img-container{
-    background-color: rgba(0, 0, 0, 0.26);
-    margin-left: 500px;
-    margin-right: 500px;
+    background-color: rgba(0, 0, 0, 0.36);
+    margin-left: 300px;
+    margin-right: 300px;
     padding-top: 50px;
     padding-bottom: 50px;
     border-radius: 30px;
     animation: SlideUp 2s;
-
 }
 
 button{
